@@ -1,0 +1,39 @@
+#grid{
+    margin-top:50px ;
+    margin-left:45% ;
+    width:400px;
+    height:300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+h1{
+    width:50%;
+    height:25%;
+    margin-left:30%;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    background-color: brown;
+    border-color: black;
+    border-radius: 5px;
+    border-style: dashed;
+    border-width: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+body{
+    background-color: lightskyblue;
+}
+h3{
+    width:fit-content;
+    color:whitesmoke;
+    background-color: blueviolet;
+    border-radius: 5px;
+    border-color: black;
+    border-width:2px;
+    border-style: groove;
+    margin-top: 10px;
+    margin-left: 40%;
+    padding: 2px;
+}
